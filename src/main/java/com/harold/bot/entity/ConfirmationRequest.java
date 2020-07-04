@@ -12,7 +12,7 @@ public class ConfirmationRequest {
         return type;
     }
 
-    public String getGroupId() {
+    public String getGroup_id() {
         return group_id;
     }
 }
